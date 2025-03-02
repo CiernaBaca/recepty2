@@ -1,8 +1,8 @@
-1 pohár hladkej múky
-1/4 čajovej lyžičky soli
-3/4 pohára mlieko
-1/2 pohára voda
-2 vajcia (XL)
+120 g hladká múka
+1/4 čajovej lyžičky soľ
+180 ml mlieko
+120 ml voda
+2 vajcia
 100g maslo, roztopiť v mikrovĺnke
 3 polievkové lyžice hnedý cukor
 1/2 polievkovej lyžice škorica
@@ -525,13 +525,3 @@ Umyté a usušené stehná vložime do misy, zalejeme marinádou, premiešame a 
 Mäso naukladáme na pekáč, zakryjeme a pečieme na 180 stupňoch asi hodinu. Sem tam podlejeme marinádou
 
 Potom ho odkryjeme a pečieme na 220 ešte asi 10 minút
-#
-
-1
-
-1
-#
-
-2
-
-2
